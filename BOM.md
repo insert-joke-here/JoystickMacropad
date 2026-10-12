@@ -18,7 +18,7 @@
 | [Kailh Mechanical switches](https://www.adafruit.com/product/5124) | Input to be the keys of the keyboard | 6 | $0.95 | $5.70 | [Adafruit](https://www.adafruit.com/product/5124) |
 | [Yellow Keycaps - 10 Pack](https://www.adafruit.com/product/5009) | for the keys (on sale) | 1 | $2.98 | $2.98 | [Adafruit](https://www.adafruit.com/product/5009) |
 | **Parts subtotal** | — | — | — | **$23.18** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$23.18** | — |
+| **Tax & shipping** | — | — | — | **$9.25** | — |
+| **Total** | — | — | — | **$32.43** | — |
 
-$6.82 left of the tier's funding.
+**$2.43 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
