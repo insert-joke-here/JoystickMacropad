@@ -6,6 +6,8 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
+> A macropad with a joystick that you can plug into a usb port on your computer and play video games with/ do anything else that you want!
+
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
 | Week 1 | Tier 1 | 12.3h | 5 |
