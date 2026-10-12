@@ -14,10 +14,9 @@
 | --- | --- | --- | --- | --- | --- |
 | [Adafruit Feather 328p - Atmega328p 3.3V](https://www.adafruit.com/product/3458) | The main loop | 1 | $12.50 | $12.50 | [Adafruit](https://www.adafruit.com/product/3458) |
 | [PCB board](https://jlcpcb.com/) | connecting everything together | 5 | $1.84 | $9.20 | [JLCPCB](https://jlcpcb.com/) |
-| [Joystick module](https://www.amazon.com/Dual-axis-Joystick-Module-arduino-KY-023/dp/B07V7X6LMP) | input for the controller | 1 | $1.96 | $1.96 | [Amazon](https://www.amazon.com/Dual-axis-Joystick-Module-arduino-KY-023/dp/B07V7X6LMP) |
 | [headers](https://www.adafruit.com/product/3002) | connecting everything together | 1 | $0.50 | $0.50 | [Adafruit](https://www.adafruit.com/product/3002) |
-| **Parts subtotal** | — | — | — | **$24.16** | — |
+| **Parts subtotal** | — | — | — | **$22.20** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$24.16** | — |
+| **Total** | — | — | — | **$22.20** | — |
 
-$5.84 left of the tier's funding.
+$7.80 left of the tier's funding.
