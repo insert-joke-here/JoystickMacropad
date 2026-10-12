@@ -17,10 +17,9 @@
 | [Resistors, Diodes](https://www.digikey.com/en/products/detail/onsemi/1N4148/458603) | circuit related things ( i have the resistor at home so price not included) | 10 | $0.06 | $0.60 | [Digikey](https://www.digikey.com/en/products/detail/onsemi/1N4148/458603) |
 | [Joystick module](https://www.amazon.com/Dual-axis-Joystick-Module-arduino-KY-023/dp/B07V7X6LMP) | input for the controller | 1 | $1.96 | $1.96 | [Amazon](https://www.amazon.com/Dual-axis-Joystick-Module-arduino-KY-023/dp/B07V7X6LMP) |
 | [headers](https://www.adafruit.com/product/3002) | connecting everything together | 1 | $0.50 | $0.50 | [Adafruit](https://www.adafruit.com/product/3002) |
-| [Kailh switches](https://www.adafruit.com/product/5124) | input for the controller | 6 | $0.95 | $5.70 | [Adafruit](https://www.adafruit.com/product/5124) |
 | [Keycaps](https://www.adafruit.com/product/4956) | input for the controller | 1 | $4.95 | $4.95 | [Adafruit](https://www.adafruit.com/product/4956) |
-| **Parts subtotal** | — | — | — | **$35.41** | — |
+| **Parts subtotal** | — | — | — | **$29.71** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$35.41** | — |
+| **Total** | — | — | — | **$29.71** | — |
 
-**$5.41 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$0.29 left of the tier's funding.
