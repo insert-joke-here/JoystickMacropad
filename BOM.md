@@ -18,7 +18,7 @@
 | [Joystick module](https://www.amazon.com/Dual-axis-Joystick-Module-arduino-KY-023/dp/B07V7X6LMP) | input for the controller | 1 | $1.96 | $1.96 | [Amazon](https://www.amazon.com/Dual-axis-Joystick-Module-arduino-KY-023/dp/B07V7X6LMP) |
 | [headers](https://www.adafruit.com/product/3002) | connecting everything together | 1 | $0.50 | $0.50 | [Adafruit](https://www.adafruit.com/product/3002) |
 | **Parts subtotal** | — | — | — | **$24.76** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$24.76** | — |
+| **Tax & shipping** | — | — | — | **$7.00** | — |
+| **Total** | — | — | — | **$31.76** | — |
 
-$5.24 left of the tier's funding.
+**$1.76 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
