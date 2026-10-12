@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "arduino_micro")(type "KiCad")(uri "${KIPRJMOD}/projectLibs/arduino_micro.pretty")(options "")(descr ""))
+  (lib (name "joystick")(type "KiCad")(uri "${KIPRJMOD}/projectLibs/joystick.pretty")(options "")(descr ""))
+)
