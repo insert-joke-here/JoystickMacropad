@@ -4,7 +4,7 @@
 <!-- Generated: 2026-10-12T03:55:13.543Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuvdlo0h00m901rkd5biamxx). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
 > A macropad with a joystick that you can plug into a usb port on your computer and play video games with/ do anything else that you want!
 
