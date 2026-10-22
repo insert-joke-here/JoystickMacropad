@@ -1,5 +1,8 @@
 # Joystick Macropad
 
+<img width="1090" height="513" alt="cover" src="https://github.com/user-attachments/assets/89da439a-0d87-4d7b-be77-0b0f64c99743" />
+
+
 This is a 2x3 macropad + a joystick. (created so i can play more pc games and also for the hackclub program half-life!)
 
 It can be plugged straight into your computer (maybe with an adapter if you need it?) and used as a keyboard/joystick however you wish!
@@ -9,8 +12,9 @@ It uses an adafruit feather 328p (which is compatible with the arduino IDE , so 
 schematic:
 <img width="943" height="531" alt="schematic" src="https://github.com/user-attachments/assets/1b687d3c-8b77-4e3a-99ab-1b50c13ffbc9" />
 
-the routing:
+the routing (also the cover image bc my computer cant load it in 3d):
+<img width="1090" height="513" alt="cover" src="https://github.com/user-attachments/assets/fa362028-0a05-4711-94c3-b99ed616ab0c" />
 
-![my final routed pcb](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/Txtz56AlpXYSvJEhT04HAEIaAgIKQaYV/0a7d18d699e3ade5ed5f1ed8f2fac22ec0fa905a97fff72705d2a65ece963fff.png)
+
 
 The case for this project is available [here](https://github.com/insert-joke-here/JoyMacropadCase).
